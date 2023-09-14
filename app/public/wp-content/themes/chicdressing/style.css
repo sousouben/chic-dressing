@@ -142,3 +142,9 @@ body .header-logo a {
   background: #f6f6f6;
   padding-bottom: 20px;
 }
+
+/*modification pb contraste*/
+body .header-logo a {
+  text-shadow: 2px 3px 5px black;
+  -moz-text-shadow: 2px 3px 5px black;
+}
